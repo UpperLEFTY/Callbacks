@@ -1,2 +1,2 @@
 # Callbacks
-Understand Callbacks in ES6
+Understanding Callbacks in ES6
